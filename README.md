@@ -1,8 +1,10 @@
 # Elicio Junior
 Analista de Data Center na Claro Brasil.
+<br>
 Desenvolvedor Web - Junior / Fullstack.
 
-:house:    Santos/SP <br>
+:house:    Santos/SP 
+<br>
 :envelope:  elicio.junior@gmail.com
 
 Sou um profissional que já trabalha com tecnologia a mais de 20 anos, comecei como técnico de hardware autônomo,
@@ -109,7 +111,7 @@ Técnico de suporte remoto e campo.
 ## Redes Sociais
 *  [Linkedin](https://www.linkedin.com/in/eliciojunior/)
 
-<br><br>
+<br>
 
 ## Me ajude!
 Encontrou algum erro nas informações? Seja amigo e abra uma issue!!! <br>
