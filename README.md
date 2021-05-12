@@ -85,6 +85,7 @@ Técnico de suporte remoto e campo.
 ### Back-end
 * PHP
 * NodeJS
+* Shell Script
 
 ### UI Kits
 * Bootstrap
@@ -96,6 +97,22 @@ Técnico de suporte remoto e campo.
 
 ### Sistemas de controle de versão
 * Git
+
+### Ferramentas
+* Nagios
+* Zabbix
+* Docker
+* WSL
+* Ansible
+* Terraform
+* Incognito Broadband Commander Center
+* VMWare
+* NextCloud
+
+### Cloud
+* GCP
+* AWS
+* Azure
 
 ## Projetos
 * [Scarcini - Micropigmentação de Sobrancelhas](https://scarcini-pmu-app.vercel.app/)
