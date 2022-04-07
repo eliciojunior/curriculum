@@ -1,33 +1,34 @@
 # Elicio Junior
 Consultor/Desenvolvedor de ServiceNow na Service IT.
 <br>
-Desenvolvedor Web - Junior / Fullstack.
+Desenvolvedor Web Full Stack
 
 :house:    Santos/SP 
 <br>
 :envelope:  elicio.junior@gmail.com
 
 Sou um profissional que já trabalha com tecnologia a mais de 20 anos, comecei como técnico de hardware autônomo,
-fui professor de curso profissionalizante na mesma área, possuo formação técnica em telecomunicações e sou colaborador da
-Net/Claro desde 2010.
+fui professor de curso profissionalizante na mesma área, possuo formação técnica em telecomunicações e fui analista de Data Center
+Net/Claro durante 9 anos.
 Minhas skills são mais evidentes na área de servidores, sendo ponto focal do setor aqui na Baixada Santista, ajudando a implementar o IPv6
 na operação, desenvolvimento e implementação da automação dos backups dos CMTS/Roteadores da planta e desenvolvimento de diversos sistemas locais para ajudar diversas áreas técnicas da operação usando HTML/CSS/Javascript/PHP como stack principal.
+Hoje sou consultor/desenvolvedor na Service IT trabalhando diretamente com a ferramenta ServiceNow, onde projetamos, implementamos e damos sustenção em diversos módulos do ServiceNow em nossos clientes parceiros.
 
 ## Formação
-Centro Paula Souza - Técnico em Telecomunicações <br>
-Concluído em 2009
+Universidade Paulista (UNIP) - Tecnólogo em Gestão da Tecnologia da Informação <br>
+Não concluído (2013)
 
-[_Clique aqui para ver as disciplinas do curso._](#)
+[_Clique aqui para ver as disciplinas do curso._](#s)
 
 Faculdade Rubens Lara (FATEC Baixada Santista) - Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
 Não concluído (2010)
 
 [_Clique aqui para ver as disciplinas do curso._](#)
 
-Universidade Paulista (UNIP) - Tecnólogo em Gestão da Tecnologia da Informação <br>
-Não concluído (2013)
+Centro Paula Souza - Técnico em Telecomunicações <br>
+Concluído em 2009
 
-[_Clique aqui para ver as disciplinas do curso._](#s)
+[_Clique aqui para ver as disciplinas do curso._](#)
 
 
 ## Experência Profissional
