@@ -1,5 +1,5 @@
 # Elicio Junior
-Analista de Data Center na Claro Brasil.
+Consultor/Desenvolvedor de ServiceNow na Service IT.
 <br>
 Desenvolvedor Web - Junior / Fullstack.
 
@@ -31,7 +31,15 @@ Não concluído (2013)
 
 
 ## Experência Profissional
-* (Out/2012 -  Atual) <br>
+* (Jun/2021 -  Atualidade) <br>
+**Consultor/Desenvolvedor de ServiceNow - Service IT** -
+Desenvolvedor Web Full Stack com foco na plataforma ServiceNow.
+  * Suporte de melhorias e desenvolvimento de novas funcionalidades no módulo de ITSM, criação e manutenção de Workflows, Service Portal, Agent Workspace, Flow Designer.
+  * Desenvolvimento de APIs REST para integrações do ServiceNow com ferramentas de terceiros e/ou configurações de integrações nativas na plataforma.
+  * Implementar e sustentar melhorias em catálogos de serviço para as principais áreas de negócio de nossos clientes.
+  * Planejar, implementar e sustentar integrações utilizando APIs no padrão REST entre o Zabbix e a plataforma 4Biz para automação de abertura, atualização e encerramento de chamados.
+
+* (Out/2012 -  Jun/2021) <br>
 **Analista de Data Center - Claro Brasil** -
 Sysadmin na operação Baixada Santista.
   * Planejar, implementar e monitorar servidores DHCP com a solução da Incognito (Broadband Commander Center).
@@ -63,6 +71,9 @@ Técnico de suporte remoto e campo.
   * Responsável pelo suporte aos funcionários das empresas clientes.
   * Suporte de nível 1 nas configurações de aplicativos, atualização de softwares e problemas relacionados a conexão com a internet.
   * Configurações de servidores Windows e Linux.
+
+## Certificações
+* Oracle Cloud Infrastructure Foundations 2021
 
 ## Conhecimentos
 
@@ -99,6 +110,7 @@ Técnico de suporte remoto e campo.
 * Git
 
 ### Ferramentas
+* ServiceNow
 * Nagios
 * Zabbix
 * Docker
@@ -110,12 +122,15 @@ Técnico de suporte remoto e campo.
 * NextCloud
 
 ### Cloud
-* GCP
 * AWS
-* Azure
+* OCI
 
 ## Projetos
 * [Scarcini - Micropigmentação de Sobrancelhas](https://scarcini-pmu-app.vercel.app/)
+* Automação na abertura de chamados oriundos do Zabbix para a plataforma 4Biz, na Service IT.
+* Automação na extração de relatório e análise de dados de atualização de firmware de cable modems na Claro Brasil.
+* Desenvolvimento e implantação de ferramenta para cadastro e acompanhamento de métricas para análise de nodes ofenssores de SNR na Claro Brasil.
+* Desenvolvimento de melhoria no sistema web utilizado para consulta de dados dos cable modems na Claro Brasil.
 
 ## Cursos Completos
 * Montagem e Manutenção de Computadores (UNEP / [Certificado](#))
