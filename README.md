@@ -32,13 +32,12 @@ Concluído em 2009
 
 
 ## Experência Profissional
-* (Jun/2021 -  Abr/2022) <br>
+* (Abr/2021 -  Atualidade) <br>
 **Consultor/Desenvolvedor de ServiceNow - Aoop Cloud Solution** -
 Desenvolvedor Web Full Stack com foco na plataforma ServiceNow.
-  * Suporte de melhorias e desenvolvimento de novas funcionalidades no módulo de ITSM, criação e manutenção de Workflows, Service Portal, Agent Workspace, Flow Designer.
+  * Suporte de melhorias e desenvolvimento de novas funcionalidades no módulo de ITBM.
   * Desenvolvimento de APIs REST para integrações do ServiceNow com ferramentas de terceiros e/ou configurações de integrações nativas na plataforma.
-  * Implementar e sustentar melhorias em catálogos de serviço para as principais áreas de negócio de nossos clientes.
-  * Planejar, implementar e sustentar integrações utilizando APIs no padrão REST entre o Zabbix e a plataforma 4Biz para automação de abertura, atualização e encerramento de chamados.
+  * Implementar e sustentar melhorias nos módulos de Ideias, Demandas e Projetos.
 
 * (Jun/2021 -  Abr/2022) <br>
 **Consultor/Desenvolvedor de ServiceNow - Service IT** -
