@@ -1,5 +1,5 @@
 # Elicio Junior
-Consultor/Desenvolvedor de ServiceNow na Service IT.
+Consultor/Desenvolvedor de ServiceNow na Aoop Cloud Solutions.
 <br>
 Desenvolvedor Web Full Stack
 
@@ -12,7 +12,7 @@ fui professor de curso profissionalizante na mesma área, possuo formação téc
 Net/Claro durante 9 anos.
 Minhas skills são mais evidentes na área de servidores, sendo ponto focal do setor aqui na Baixada Santista, ajudando a implementar o IPv6
 na operação, desenvolvimento e implementação da automação dos backups dos CMTS/Roteadores da planta e desenvolvimento de diversos sistemas locais para ajudar diversas áreas técnicas da operação usando HTML/CSS/Javascript/PHP como stack principal.
-Hoje sou consultor/desenvolvedor na Service IT trabalhando diretamente com a ferramenta ServiceNow, onde projetamos, implementamos e damos sustenção em diversos módulos do ServiceNow em nossos clientes parceiros.
+Hoje sou consultor técnico na Aoop Cloud Solutions trabalhando diretamente com a ferramenta ServiceNow, onde projetamos, implementamos e damos sustenção em diversos módulos do ServiceNow em nossos clientes parceiros, principalmente no módulo de ITBM.
 
 ## Formação
 Universidade Paulista (UNIP) - Tecnólogo em Gestão da Tecnologia da Informação <br>
@@ -32,7 +32,15 @@ Concluído em 2009
 
 
 ## Experência Profissional
-* (Jun/2021 -  Atualidade) <br>
+* (Jun/2021 -  Abr/2022) <br>
+**Consultor/Desenvolvedor de ServiceNow - Aoop Cloud Solution** -
+Desenvolvedor Web Full Stack com foco na plataforma ServiceNow.
+  * Suporte de melhorias e desenvolvimento de novas funcionalidades no módulo de ITSM, criação e manutenção de Workflows, Service Portal, Agent Workspace, Flow Designer.
+  * Desenvolvimento de APIs REST para integrações do ServiceNow com ferramentas de terceiros e/ou configurações de integrações nativas na plataforma.
+  * Implementar e sustentar melhorias em catálogos de serviço para as principais áreas de negócio de nossos clientes.
+  * Planejar, implementar e sustentar integrações utilizando APIs no padrão REST entre o Zabbix e a plataforma 4Biz para automação de abertura, atualização e encerramento de chamados.
+
+* (Jun/2021 -  Abr/2022) <br>
 **Consultor/Desenvolvedor de ServiceNow - Service IT** -
 Desenvolvedor Web Full Stack com foco na plataforma ServiceNow.
   * Suporte de melhorias e desenvolvimento de novas funcionalidades no módulo de ITSM, criação e manutenção de Workflows, Service Portal, Agent Workspace, Flow Designer.
