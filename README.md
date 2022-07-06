@@ -137,7 +137,7 @@ Técnico de suporte remoto e campo.
 * [Scarcini - Micropigmentação de Sobrancelhas](https://scarcini-pmu-app.vercel.app/)
 * Automação na abertura de chamados oriundos do Zabbix para a plataforma 4Biz, na Service IT.
 * Automação na extração de relatório e análise de dados de atualização de firmware de cable modems na Claro Brasil.
-* Desenvolvimento e implantação de ferramenta para cadastro e acompanhamento de métricas para análise de nodes ofenssores de SNR na Claro Brasil.
+* Desenvolvimento e implantação de ferramenta para cadastro e acompanhamento de métricas para análise de nodes ofensores de SNR na Claro Brasil.
 * Desenvolvimento de melhoria no sistema web utilizado para consulta de dados dos cable modems na Claro Brasil.
 
 ## Cursos Completos
