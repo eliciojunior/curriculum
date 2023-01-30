@@ -12,7 +12,7 @@ fui professor de curso profissionalizante na mesma área, possuo formação téc
 Net/Claro durante 9 anos.
 Minhas skills são mais evidentes na área de servidores, sendo ponto focal do setor aqui na Baixada Santista, ajudando a implementar o IPv6
 na operação, desenvolvimento e implementação da automação dos backups dos CMTS/Roteadores da planta e desenvolvimento de diversos sistemas locais para ajudar diversas áreas técnicas da operação usando HTML/CSS/Javascript/PHP como stack principal.
-Passei pela Service IT onde era consultor técnico de ServiceNow onde minha principal entrega foi um projeto interno de integração do Zabbix com outra plataforma de gerenciamento de TI, para aberturas e encerramento de chamados de forma automática.
+Passei pela Service IT onde era consultor técnico de ServiceNow onde minha principal entrega foi um projeto interno de integração do Zabbix com outra plataforma de gerenciamento de TI, para aberturas e encerramentos de chamados de forma automática.
 Hoje sou consultor técnico na Aoop Cloud Solutions trabalhando diretamente com a ferramenta ServiceNow, onde projetamos, implementamos e damos sustenção em diversos módulos do ServiceNow em nossos clientes parceiros, principalmente no módulo de ITBM.
 
 ## Formação
