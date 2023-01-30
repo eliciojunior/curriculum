@@ -141,7 +141,7 @@ Técnico de suporte remoto e campo.
 * Desenvolvimento e implantação de ferramenta para cadastro e acompanhamento de métricas para análise de nodes ofensores de SNR na Claro Brasil.
 * Desenvolvimento de melhoria no sistema web utilizado para consulta de dados dos cable modems na Claro Brasil.
 
-## Cursos Completos
+## Cursos Complementares
 * Montagem e Manutenção de Computadores (UNEP / [Certificado](#))
 * Curso Java Básico (FATEC / [Certificado](#))
 * Curso Infraestrutura com Windows Server 2012 - Students To Business (S2B) (Microsoft / [Certificado](#))
