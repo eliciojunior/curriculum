@@ -1,6 +1,7 @@
 # Elicio Junior
 Consultor/Desenvolvedor de ServiceNow na Aoop Cloud Solutions.
 <br>
+Analista de Infraestrutura
 Desenvolvedor Web Full Stack
 
 :house:    Santos/SP 
@@ -19,17 +20,14 @@ Hoje sou consultor técnico na Aoop Cloud Solutions trabalhando diretamente com 
 Universidade Paulista (UNIP) - Tecnólogo em Gestão da Tecnologia da Informação <br>
 Não concluído (2013)
 
-[_Clique aqui para ver as disciplinas do curso._](#s)
 
 Faculdade Rubens Lara (FATEC Baixada Santista) - Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
 Não concluído (2010)
 
-[_Clique aqui para ver as disciplinas do curso._](#)
 
 Centro Paula Souza - Técnico em Telecomunicações <br>
 Concluído em 2009
 
-[_Clique aqui para ver as disciplinas do curso._](#)
 
 
 ## Experência Profissional
@@ -142,12 +140,12 @@ Técnico de suporte remoto e campo.
 * Desenvolvimento de melhoria no sistema web utilizado para consulta de dados dos cable modems na Claro Brasil.
 
 ## Cursos Complementares
-* Montagem e Manutenção de Computadores (UNEP / [Certificado](#))
-* Curso Java Básico (FATEC / [Certificado](#))
-* Curso Infraestrutura com Windows Server 2012 - Students To Business (S2B) (Microsoft / [Certificado](#))
+* Montagem e Manutenção de Computadores (UNEP)
+* Curso Java Básico (FATEC)
+* Curso Infraestrutura com Windows Server 2012 - Students To Business (S2B) (Microsoft)
 
 ## Eventos como Participante
-* Desafio Startup Cidadã - Santos-SP ( [Certificado](#) )
+* Desafio Startup Cidadã - Santos-SP
 
 ## Redes Sociais
 *  [Linkedin](https://www.linkedin.com/in/eliciojunior/)
