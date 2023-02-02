@@ -2,6 +2,7 @@
 Consultor/Desenvolvedor de ServiceNow na Aoop Cloud Solutions.
 <br>
 Analista de Infraestrutura
+<br>
 Desenvolvedor Web Full Stack
 
 :house:    Santos/SP 
