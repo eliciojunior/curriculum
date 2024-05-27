@@ -1,11 +1,11 @@
 # Elicio Junior
-Consultor/Desenvolvedor de ServiceNow na Aoop Cloud Solutions.
-<br>
-Analista de Infraestrutura
+Consultor/Desenvolvedor de ServiceNow na Artycs AI.
 <br>
 Desenvolvedor Web Full Stack
+<br>
+Analista de Infraestrutura
 
-:house:    Santos/SP 
+:house:    Joinville/SC 
 <br>
 :envelope:  elicio.junior@gmail.com
 
@@ -15,7 +15,8 @@ Net/Claro durante 9 anos.
 Minhas skills são mais evidentes na área de servidores, sendo ponto focal do setor aqui na Baixada Santista, ajudando a implementar o IPv6
 na operação, desenvolvimento e implementação da automação dos backups dos CMTS/Roteadores da planta e desenvolvimento de diversos sistemas locais para ajudar diversas áreas técnicas da operação usando HTML/CSS/Javascript/PHP como stack principal.
 Passei pela Service IT onde era consultor técnico de ServiceNow onde minha principal entrega foi um projeto interno de integração do Zabbix com outra plataforma de gerenciamento de TI, para aberturas e encerramentos de chamados de forma automática.
-Hoje sou consultor técnico na Aoop Cloud Solutions trabalhando diretamente com a ferramenta ServiceNow, onde projetamos, implementamos e damos sustenção em diversos módulos do ServiceNow em nossos clientes parceiros, principalmente no módulo de ITBM.
+Como consultor técnico na Aoop Cloud Solutions, trabalhando diretamente com a ferramenta ServiceNow, projetamos, implementamos e damos sustenção em diversos módulos do ServiceNow em nossos clientes parceiros, principalmente no módulo de ITBM. A principal entrega nessa empresa foi melhoria da integração do ServiceNow com o ERP da Senior e melhorias no módulo de ITBM/SPM de um grande parceiro do ramo financeiro.
+Hoje na Artycs AI, meu papel de Senior Developer me coloca como ponto focal na evolução dos demais desenvolvedores e no desenvolvimento de diversos projetos, entre eles a criação de uma aplicação de uma grande empresa do setor de exportação, maximizando as tarefas e melhorando a intgração entre as entidades envolvidas no processo.
 
 ## Formação
 Universidade Paulista (UNIP) - Tecnólogo em Gestão da Tecnologia da Informação <br>
@@ -32,7 +33,14 @@ Concluído em 2009
 
 
 ## Experência Profissional
-* (Abr/2021 -  Atualidade) <br>
+* (Out/2023 -  Atualmente) <br>
+**Consultor/Desenvolvedor de ServiceNow - Artycs AI** -
+  Desenvolvedor Web Full Stack com foco na plataforma ServiceNow.
+  * Suporte de melhorias e desenvolvimento de novas funcionalidades no módulo de ITSM/SPM/ITOM.
+  * Desenvolvimento de APIs REST para integrações do ServiceNow com ferramentas de terceiros e/ou configurações de integrações nativas na plataforma.
+  * Desenvolvimento de aplicativos mobile utilizando o Mobile App Builder como principal engine de desenvolvimento.
+
+* (Abr/2021 -  Out/2023) <br>
 **Consultor/Desenvolvedor de ServiceNow - Aoop Cloud Solution** -
 Desenvolvedor Web Full Stack com foco na plataforma ServiceNow.
   * Suporte de melhorias e desenvolvimento de novas funcionalidades no módulo de ITBM.
@@ -81,6 +89,7 @@ Técnico de suporte remoto e campo.
   * Configurações de servidores Windows e Linux.
 
 ## Certificações
+* ServiceNow CSA
 * Oracle Cloud Infrastructure Foundations 2021
 
 ## Conhecimentos
@@ -109,6 +118,8 @@ Técnico de suporte remoto e campo.
 ### UI Kits
 * Bootstrap
 * Foundation
+* Material UI
+* Tailwind CSS
 
 ### Banco de Dados
 * MySQL
